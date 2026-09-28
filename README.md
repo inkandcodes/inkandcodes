@@ -15,7 +15,7 @@ Working on Chat Applications, Book Recommendation Systems, and improving my skil
 Data Structures • Software Development • Machine Learning
 
 🎮 Fun Facts
-Gaming • Music • Books • Manga
+Gaming • Music • Books • Manga • Anime
 
 📫 Reach Me
 LinkedIn: https://www.linkedin.com/in/nishant-tiwari-4b7693401
