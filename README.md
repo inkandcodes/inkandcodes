@@ -1,26 +1,24 @@
-Hi, I'm Nishant 👍
+Hey there! 👋
 
-BCA Student | Aspiring Software Developer
+I'm Ink, a BCA student and aspiring software developer.
 
-I'm a **BCA student** passionate about programming, problem-solving, and building practical projects.
+I like turning ideas into projects, learning new technologies, and solving problems through code.
 
-### 🚀 Currently Working On
+🚀 Currently
+Working on Chat Applications, Book Recommendation Systems, and improving my skills in C++, Python & DSA.
 
-* 💬 Chat Application
-* 📚 Book Recommendation System
-* 🧠 Improving **C++, Python & Data Structures**
+🛠️ Tools
+`C++` `Python` `JavaScript` `HTML/CSS` `SQL`  
+`Git` `GitHub` `VS Code`
 
-### 🛠️ Tools I Use
+🧠 Learning
+Data Structures • Software Development • Machine Learning
 
-**Languages:** C++ • Python • JavaScript • HTML/CSS • SQL
-**Tools:** Git • GitHub • VS Code
+🎮 Fun Facts
+Gaming • Music • Books • Manga
 
-### 📫 Reach Me
+📫 Reach Me
+LinkedIn: https://www.linkedin.com/in/nishant-tiwari-4b7693401
+Email: nishantw07@gmail.com)
 
-* **Email:** [your-nishantw07@gmail.com](mailto:nishantw07@gmail.com)
-* **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/)
-
-> Fun Facts
-🎮 Gaming and watching anime when I'm not coding
-🎵 Coding sounds better with good music
-📚 Book & manga enthusiast
+Learn. Build. Improve.
