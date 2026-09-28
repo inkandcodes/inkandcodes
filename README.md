@@ -19,6 +19,6 @@ Gaming • Music • Books • Manga
 
 📫 Reach Me
 LinkedIn: https://www.linkedin.com/in/nishant-tiwari-4b7693401
-Email: nishantw07@gmail.com)
+Email: nishantw07@gmail.com
 
 Learn. Build. Improve.
