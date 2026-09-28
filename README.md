@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Nishant 👍
 
-<!--
-**inkandcodes/inkandcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a **BCA student** passionate about programming, problem-solving, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+
+* 💬 Chat Application
+* 📚 Book Recommendation System
+* 🧠 Improving **C++, Python & Data Structures**
+
+### 🛠️ Tools I Use
+
+**Languages:** C++ • Python • JavaScript • HTML/CSS • SQL
+**Tools:** Git • GitHub • VS Code
+
+### 📫 Reach Me
+
+* **Email:** [your-nishantw07@gmail.com](mailto:nishantw07@gmail.com)
+* **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/)
+
+> Fun Facts
+🎮 Gaming and watching anime when I'm not coding
+🎵 Coding sounds better with good music
+📚 Book & manga enthusiast
